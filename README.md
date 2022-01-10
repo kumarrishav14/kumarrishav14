@@ -46,6 +46,12 @@
 
 ---
 
+![Kumarrishav14's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarrishav14&hide_border=true&show_icons=true)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrishav14&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://kumarrishav14.github.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/kumarrishav14
