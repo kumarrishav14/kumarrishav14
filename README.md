@@ -48,15 +48,6 @@
 
 ---
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-\*\*\*\*<!--END_SECTION:activity-->
-
-</details>
-
 [website]: https://kumarrishav14.github.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/kumarrishav14
