@@ -24,9 +24,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20-Verilog%20-green" />
-<img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20-System Verilog%20-blue" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20-UVM%20-orange" />
+<img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-green" />
+<img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20System Verilog-%20-green" />
+<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20UVM-%20-green" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -45,6 +45,16 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrishav14&layout=compact&hide_border=true&count_private=true)
+
+---
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 [website]: https://kumarrishav14.github.io
 [course]: http://vsCodeHero.com
