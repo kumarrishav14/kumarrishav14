@@ -9,9 +9,9 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source RTL projects
-- ⚡ Fun fact: I love to learn new stuffs and capture beautiful scapes
-- 🌌 Love to learn and share space related stuffs
+- 🥅 2023 Goals: Contribute more to Open Source RTL projects
+- ⚡ Fun fact: I love to learn new stuff and capture beautiful scapes
+- 🌌 Love to learn and share space related stuff
 
 ### Connect with me:
 
