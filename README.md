@@ -4,14 +4,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kumarrishav14?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkumarrishav14&screen_name=kumarrishav14)
 ![GitHub followers](https://img.shields.io/github/followers/kumarrishav14?logo=github&style=for-the-badge)
 
-## I'm a Digital Design and Verification Engineer!!
+## I'm an ASIC Engineer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m currently learning everything 🤣
+- 🏢 I’m currently working on building next-gen PCIE IPs at NVIDIA
 - 🥅 2023 Goals: Contribute more to Open Source RTL projects
 - ⚡ Fun fact: I love to learn new stuff and capture beautiful scapes
-- 🌌 Love to learn and share space related stuff
+- 🌌 Love to learn and share space-related stuff
 
 ### Connect with me:
 
