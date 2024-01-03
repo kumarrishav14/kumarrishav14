@@ -9,7 +9,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
 - 🏢 I’m currently working on building next-gen PCIE IPs at NVIDIA
-- 🥅 2023 Goals: Contribute more to Open Source RTL projects
+- 🥅 2024 Goals: Contribute more to Open Source RTL projects
 - ⚡ Fun fact: I love to learn new stuff and capture beautiful scapes
 - 🌌 Love to learn and share space-related stuff
 
